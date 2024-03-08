@@ -9,7 +9,7 @@ Downloads: VSCODE.
 
 Libraries to be imported: Tkinter library.
 
-## Features
+## Features/Goals
 
 - Creating a GUI root window.
 - Including text fields or input fields to enter the numbers.
