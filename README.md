@@ -20,6 +20,12 @@ Libraries to be imported: Tkinter library.
 - Style the GUI elements using appropriate fonts, colors and layout.
 
 
+## Demo
+
+Insert gif or link to demo
+
+
+![Logo](https://www.iconfinder.com/icons/171352/calculator_icon)
 
 
 ## Acknowledgement
