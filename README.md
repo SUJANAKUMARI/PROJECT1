@@ -8,6 +8,7 @@ SIMPLE GUI CALCULATOR USING PYTHON PROGRAMMING.
 Downloads: VSCODE. 
 
 Libraries to be imported: Tkinter library.
+
 ## Features
 
 - Creating a GUI root window.
@@ -18,15 +19,6 @@ Libraries to be imported: Tkinter library.
 - Handle any possible error scenarios such as division by zero or invalid inputs.
 - Include a “clear” button to reset the input field and result field.
 - Style the GUI elements using appropriate fonts, colors and layout.
-
-
-## Demo
-
-Insert gif or link to demo
-
-
-![Logo](https://www.iconfinder.com/icons/171352/calculator_icon)
-
 
 ## Acknowledgement
 
