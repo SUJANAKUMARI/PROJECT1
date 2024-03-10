@@ -20,9 +20,15 @@ Libraries to be imported: Tkinter library.
 - Include a “clear” button to reset the input field and result field.
 - Style the GUI elements using appropriate fonts, colors and layout.
 
-## Acknowledgement
+## FINAL OUTPUT
 
- I would like to express my special thanks of gratitude to my Mentor, "Ms. Shwetha Sutar" for the guidance and support by giving some reference articles by which I was very much succesful in understanding and completing my project.
+The final output of the Simple GUI Calculator is as shown below:
+
 
  ![Screenshot (3)](https://github.com/SUJANAKUMARI/PROJECT1/assets/162315739/ac002428-93f6-4cdc-889d-aa8ab2c1cbe1)
 
+
+
+## Acknowledgement
+
+ I would like to express my special thanks of gratitude to my Mentor, "Ms. Shwetha Sutar" for the guidance and support by giving some reference articles by which I was very much succesful in understanding and completing my project.
